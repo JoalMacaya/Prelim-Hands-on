@@ -1,0 +1,109 @@
+*
+{
+	margin:0;
+	padding: 0;
+}
+ header {
+	 background-image: url(https://cdn.wallpapersafari.com/93/96/pETyew.jpg);
+	 height: 100vh;
+	 background-size: cover;
+	 background-position: center;
+	 
+ }
+ 
+ .main-nav {
+	 float: right;
+	 list-style: none;
+	 margin: 30px;
+	 
+ }
+ 
+ .main-nav li {
+	 display: inline-block;	 
+ }
+ 
+ .main-nav li a {
+	 color: #ff7000;
+	 text-decoration: none;
+	 padding: 5px 20px;
+	 font-family: "Arial";
+	 font-size: 15px;
+	 
+ }
+ 
+ .main-nav li.active a {
+	 border: 1px solid red;
+ }
+ 
+ .main-nav li a:hover {
+	 border: 1px solid red;
+ }
+ 
+body {
+	
+}
+.row {
+	max-width: 1200px;
+	margin: auto;
+	
+}
+
+
+ .hero {
+	 position: left;
+	 width: 1200px;
+	 margin-left: 0px;
+	 margin-top: 0px;
+	 float: fixed;
+   
+ }
+ 
+ h1 {
+	 color: #ff7000;
+	 text-transform: uppercase;
+	 font-size: 80px;
+	 text-align: center;
+	 
+	
+	 
+ }
+ 
+ .paragraph {
+	 margin-top: 200px;
+	margin-left: 10px;
+	margin-right: 5px
+ }
+ p         {
+    font-family: arial, "Times New Roman";
+	font-size:15px;
+	color: #ff2400;
+	text-align: justify;
+
+	
+}
+
+footer {
+	background-color: black;
+	padding: 50px 0;
+	
+}
+
+.container {
+	max-width: 1200px;
+	margin: 0 auto;
+	float: fixed;
+}
+
+p {
+	margin: 0;
+	font-size: 14px;
+	color: #ff2400;
+	text-align: center;
+	
+}
+
+
+
+
+
+
